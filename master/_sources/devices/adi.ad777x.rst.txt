@@ -1,7 +1,7 @@
-lm75
-==================
+ad777x
+=================
 
-.. automodule:: adi.lm75
+.. automodule:: adi.ad777x
    :members:
    :undoc-members:
    :show-inheritance:
